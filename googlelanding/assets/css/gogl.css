@@ -1,0 +1,191 @@
+ body{
+        margin:0%;
+        padding:0%;
+    }
+    .firstbox{ 
+        margin:0%;
+        padding:0%;
+        margin-top: 0px;
+        background-color: white;
+        width: 100%;
+        height: 120px;
+    }
+
+    .menu{
+        float:right;
+        list-style: none;
+        width:400px;
+        padding:  20px;
+    }
+
+    .menu ul{
+        margin:0;
+        padding:0;
+        list-style: none;
+}
+.menu ul li{
+       float: right;
+       width: 0px;
+       margin-left: 0px;
+       margin-right: 55px;
+       margin-top: 2px;
+
+}
+
+.menu ul li a{
+text-decoration: none;
+   color:black;
+   text-align: center;
+   padding:2px;
+   margin-left:0px;
+}
+
+.secondbox{
+    margin:0% auto;
+    background-color: white;
+    width:280px;
+    height:100px;
+}
+
+.thirdbox{
+    margin:0% auto;
+    background-color: none;
+    width:550px;
+    height:20px;
+    margin-top: 20px;
+    padding:10px;
+    border-radius: 30px;
+    color: rgb(234, 228, 228);
+}
+
+.gos{
+        width:550px;
+        height:20px;
+        margin:0% auto;
+        border-radius: 30px;
+        padding:10px;
+    
+}
+
+.icon{
+       margin-top:0px;
+       background-color: none;
+       margin-left: 15px;
+       padding-top: 10px;
+       padding-bottom: 0px;
+       position: fixed;
+       margin-bottom: 0px;
+}
+
+.fourthbox{
+    margin:0% auto;
+    background-color: white;
+    width:350px;
+    height:100px;
+}
+
+.golist{
+        list-style: none;
+        width:350px;
+        padding:  20px;
+}
+
+.golist ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+.golist ul li{
+    width: 135px;
+    margin-left: 0px;
+    float: left;
+    margin-top: 10px;
+    line-height: 50px;
+    padding: 0px;
+
+}
+
+.golist ul li a{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    padding: opx;
+    margin-left:0px;
+    margin-right: 0px;
+    background-color:rgba(241, 240, 240, 0.896);
+    padding: 12px;
+    display:inline;      
+    font-family:serif;   
+}
+.golist ul li a:hover{
+                       background-color: rgb(229, 227, 227);
+                       border-radius: 8px;
+}
+
+.fifthbox{
+    margin: 0 auto;
+          height:200px;
+          width:600px;
+          background-color: none;
+          margin-top: 0px;
+
+}
+
+.niglan{
+        margin-left: 100px;
+}
+.niglan a{ 
+        text-decoration: none;
+        margin-left:3px;
+        margin-right: 3px;
+}
+
+.sixthbox{
+          margin:0% auto;
+          width:100%;
+          height:100px;
+          background-color: rgb(220, 219, 219);
+          position: fixed;
+          bottom:0%;
+          
+}
+
+.naija{
+    margin-left: 40px;
+}
+
+.advertbox{
+    float:left;
+    width:25%;
+    margin-left: 40px;
+}
+.advertbox a{
+            text-decoration: none;
+            margin-left: 10px;
+            margin-right: 10px;
+            color:black;
+}
+
+.carbonbox{
+    float:left;
+    width:50%;
+    text-align: center;
+}
+.carbonbox a{
+    text-decoration: none;
+    color:black;
+}
+
+
+.privacybox{
+    float:right;
+    width:20%;
+
+}
+.privacybox a{
+    text-decoration: none;
+            margin-left: 40px;
+            margin-right: 0px;
+           color:black;
+}
